@@ -2,8 +2,8 @@
   "vuelos": [
     {
       "id": 1,
-      "destino": "Montería",
-      "origen": "Medellín",
+      "destino": "Monteria",
+      "origen": "Medellin",
       "regresoDate": "2022-11-18",
       "salidaDate": "2022-11-16",
       "timeSalida": "12:00 pm - 14:00 pm ",
@@ -12,8 +12,8 @@
     },
     {
       "id": 2,
-      "destino": "Bogotá",
-      "origen": "Medellín",
+      "destino": "Bogota",
+      "origen": "Medellin",
       "regresoDate": "2022-11-18",
       "salidaDate": "2022-11-16",
       "timeSalida": "10:00 pm - 12:00 am ",
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "destino": "Cali",
-      "origen": "Bogotá",
+      "origen": "Bogota",
       "regresoDate": "2022-11-25",
       "salidaDate": "2022-11-20",
       "timeSalida": "11:30 pm - 2:30 am ",
@@ -42,7 +42,7 @@
     },
     {
       "id": 5,
-      "destino": "Bogotá",
+      "destino": "Bogota",
       "origen": "Bucaramanga",
       "regresoDate": "2022-11-03",
       "salidaDate": "2022-10-30",
@@ -52,8 +52,8 @@
     },
     {
       "id": 6,
-      "destino": "Medellín",
-      "origen": "Cúcuta",
+      "destino": "Medellin",
+      "origen": "Cucuta",
       "regresoDate": "2022-10-29",
       "salidaDate": "2022-10-28",
       "timeSalida": "10:00 pm - 12:50 am ",
@@ -62,8 +62,8 @@
     },
     {
       "id": 7,
-      "destino": "Medellín",
-      "origen": "San Andrés",
+      "destino": "Medellin",
+      "origen": "San Andres",
       "regresoDate": "2022-11-29",
       "salidaDate": "2022-11-28",
       "timeSalida": "10:00 pm - 12:50 am ",
@@ -72,8 +72,8 @@
     },
     {
       "id": 8,
-      "destino": "Montería",
-      "origen": "Medellín",
+      "destino": "Monteria",
+      "origen": "Medellin",
       "regresoDate": "2022-11-25",
       "salidaDate": "2022-11-12",
       "timeSalida": "14:00 pm - 16:00 pm ",
