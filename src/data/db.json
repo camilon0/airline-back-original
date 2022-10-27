@@ -8,7 +8,7 @@
       "salidaDate": "2022-11-16",
       "timeSalida": "12:00 pm - 14:00 pm ",
       "timeRegreso": "8:00 am - 10:00 am ",
-      "precio": "120.000"
+      "precio": "120000"
     },
     {
       "id": 2,
@@ -18,17 +18,17 @@
       "salidaDate": "2022-11-16",
       "timeSalida": "10:00 pm - 12:00 am ",
       "timeRegreso": "6:00 am - 8:00 am ",
-      "precio": "150.000"
+      "precio": "150000"
     },
     {
       "id": 3,
       "destino": "Cartagena",
-      "origen": "Medellín",
+      "origen": "Pasto",
       "regresoDate": "2022-11-20",
       "salidaDate": "2022-11-18",
       "timeSalida": "10:50 pm - 12:40 am ",
       "timeRegreso": "6:50 am - 8:40 am ",
-      "precio": "130.000"
+      "precio": "130000"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "salidaDate": "2022-11-20",
       "timeSalida": "11:30 pm - 2:30 am ",
       "timeRegreso": "7:00 am - 10:00 am ",
-      "precio": "170.000"
+      "precio": "170000"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "salidaDate": "2022-10-30",
       "timeSalida": "10:45 pm - 12:00 am ",
       "timeRegreso": "6:45 am - 8:00 am ",
-      "precio": "110.000"
+      "precio": "110000"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "salidaDate": "2022-10-28",
       "timeSalida": "10:00 pm - 12:50 am ",
       "timeRegreso": "10:00 am - 12:50 pm ",
-      "precio": "180.000"
+      "precio": "180000"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "salidaDate": "2022-11-28",
       "timeSalida": "10:00 pm - 12:50 am ",
       "timeRegreso": "10:00 pm - 00:50 am ",
-      "precio": "250.000"
+      "precio": "250000"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "salidaDate": "2022-11-12",
       "timeSalida": "14:00 pm - 16:00 pm ",
       "timeRegreso": "10:00 am - 12:00 pm ",
-      "precio": "120.000"
+      "precio": "120000"
     }
   ]
 }
